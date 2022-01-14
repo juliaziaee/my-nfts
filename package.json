@@ -1,0 +1,29 @@
+{
+  "name": "my-nfts",
+  "version": "1.0.0",
+  "description": "first collection",
+  "main": "index.js",
+  "scripts": {
+    "test": "\\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliaziaee/NFTs.git"
+  },
+  "author": "jmz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliaziaee/NFTs/issues"
+  },
+  "homepage": "https://github.com/juliaziaee/NFTs#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.4",
+    "ethers": "^5.5.3",
+    "hardhat": "^2.8.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9",
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^11.0.0"
+  }
+}
